@@ -17,4 +17,4 @@ qc.cx(0, 1)
 # display the output of the last line of each cell.
 # If you're running this in a script, use `print(qc.draw())` to
 # print a text drawing.
-qc.draw("mpl")
+print(qc.draw())

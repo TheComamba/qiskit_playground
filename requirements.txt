@@ -1,2 +1,5 @@
+matplotlib
 numpy
+pylatexenc
 qiskit
+qiskit_ibm_runtime
